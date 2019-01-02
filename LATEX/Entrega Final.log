@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.5)  2 JAN 2019 14:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.5)  2 JAN 2019 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -611,76 +611,160 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-
-Underfull \hbox (badness 2626) in paragraph at lines 44--45
-[]\OT1/cmr/m/n/10 Implementar un ref^^Sus de per-tor-ba-cions con-stants em-pra
-nt l'observador
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-[1
+Package epstopdf Info: Source file: <images/rpm_volt_dades.eps>
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 16989 bytes
+(epstopdf)             Output file: <images/rpm_volt_dades-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2019-01-02 19:01:27
+(epstopdf)                    size: 6371 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/rpm_volt_dades-eps-
+converted-to.pdf images/rpm_volt_dades.eps>
+(epstopdf)             \includegraphics on input line 53.
+Package epstopdf Info: Output file is already uptodate.
+<images/rpm_volt_dades-eps-converted-to.pdf, id=1, 666.49pt x 516.93124pt>
+File: images/rpm_volt_dades-eps-converted-to.pdf Graphic file (type pdf)
+<use images/rpm_volt_dades-eps-converted-to.pdf>
+Package pdftex.def Info: images/rpm_volt_dades-eps-converted-to.pdf  used on in
+put line 53.
+(pdftex.def)             Requested size: 295.90979pt x 229.50914pt.
+ [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.58748pt too wide) in paragraph at lines 61--62
-\OT1/cmr/m/n/10 ///////////////////////////////////////////////////////////////
-///////VAL-
+Package epstopdf Info: Source file: <images/Rang_Operacional_Motor.eps>
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 15651 bytes
+(epstopdf)             Output file: <images/Rang_Operacional_Motor-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2019-01-02 19:09:11
+(epstopdf)                    size: 6089 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Rang_Operacional_Mo
+tor-eps-converted-to.pdf images/Rang_Operacional_Motor.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+<images/Rang_Operacional_Motor-eps-converted-to.pdf, id=12, 751.80875pt x 570.1
+3pt>
+File: images/Rang_Operacional_Motor-eps-converted-to.pdf Graphic file (type pdf
+)
+<use images/Rang_Operacional_Motor-eps-converted-to.pdf>
+Package pdftex.def Info: images/Rang_Operacional_Motor-eps-converted-to.pdf  us
+ed on input line 62.
+(pdftex.def)             Requested size: 295.90979pt x 224.40288pt.
+Package epstopdf Info: Source file: <images/Entrada_Sortida_Motor.eps>
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 128674 bytes
+(epstopdf)             Output file: <images/Entrada_Sortida_Motor-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-01-02 19:31:11
+(epstopdf)                    size: 33110 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Entrada_Sortida_Mot
+or-eps-converted-to.pdf images/Entrada_Sortida_Motor.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+<images/Entrada_Sortida_Motor-eps-converted-to.pdf, id=13, 1002.74625pt x 547.0
+4375pt>
+File: images/Entrada_Sortida_Motor-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/Entrada_Sortida_Motor-eps-converted-to.pdf>
+Package pdftex.def Info: images/Entrada_Sortida_Motor-eps-converted-to.pdf  use
+d on input line 71.
+(pdftex.def)             Requested size: 295.90979pt x 161.43494pt.
+ [2 <./images/rpm_volt_dades-eps-converted-to.pdf> <./images/Rang_Operacional_M
+otor-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/rpmDes_rpmReal.eps>
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 16778 bytes
+(epstopdf)             Output file: <images/rpmDes_rpmReal-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2019-01-02 19:15:33
+(epstopdf)                    size: 6636 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/rpmDes_rpmReal-eps-
+converted-to.pdf images/rpmDes_rpmReal.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+<images/rpmDes_rpmReal-eps-converted-to.pdf, id=27, 562.1pt x 421.575pt>
+File: images/rpmDes_rpmReal-eps-converted-to.pdf Graphic file (type pdf)
+<use images/rpmDes_rpmReal-eps-converted-to.pdf>
+Package pdftex.def Info: images/rpmDes_rpmReal-eps-converted-to.pdf  used on in
+put line 84.
+(pdftex.def)             Requested size: 295.90979pt x 221.92842pt.
+ [3 <./images/Entrada_Sortida_Motor-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
  []
 
 
-Overfull \hbox (107.74994pt too wide) in paragraph at lines 61--62
-\OT1/cmr/m/n/10 ORS DE LES CON-STANTS /////////////////////////////////////////
-/////////////////////////////,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
+Package epstopdf Info: Source file: <images/Entrada_Sortida_Observador.eps>
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 127708 bytes
+(epstopdf)             Output file: <images/Entrada_Sortida_Observador-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2019-01-02 19:36:43
+(epstopdf)                    size: 31209 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Entrada_Sortida_Obs
+ervador-eps-converted-to.pdf images/Entrada_Sortida_Observador.eps>
+(epstopdf)             \includegraphics on input line 103.
+Package epstopdf Info: Output file is already uptodate.
+<images/Entrada_Sortida_Observador-eps-converted-to.pdf, id=36, 981.6675pt x 57
+5.14874pt>
+File: images/Entrada_Sortida_Observador-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use images/Entrada_Sortida_Observador-eps-converted-to.pdf>
+Package pdftex.def Info: images/Entrada_Sortida_Observador-eps-converted-to.pdf
+  used on input line 103.
+(pdftex.def)             Requested size: 295.90979pt x 173.3709pt.
+[4 <./images/rpmDes_rpmReal-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/Entrada_Sortida_Refus_Constant.eps>
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+(epstopdf)                    date: 2019-01-02 18:55:22
+(epstopdf)                    size: 128389 bytes
+(epstopdf)             Output file: <images/Entrada_Sortida_Refus_Constant-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2019-01-02 19:40:56
+(epstopdf)                    size: 33683 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Entrada_Sortida_Ref
+us_Constant-eps-converted-to.pdf images/Entrada_Sortida_Refus_Constant.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+<images/Entrada_Sortida_Refus_Constant-eps-converted-to.pdf, id=46, 986.68625pt
+ x 475.7775pt>
+File: images/Entrada_Sortida_Refus_Constant-eps-converted-to.pdf Graphic file (
+type pdf)
+<use images/Entrada_Sortida_Refus_Constant-eps-converted-to.pdf>
+Package pdftex.def Info: images/Entrada_Sortida_Refus_Constant-eps-converted-to
+.pdf  used on input line 116.
+(pdftex.def)             Requested size: 295.90979pt x 142.69078pt.
 
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 70--71
+Underfull \hbox (badness 1412) in paragraph at lines 121--122
 []\OT1/cmr/m/n/10 Tot i aix^^S^^P, con-tin-uen havent-hi al-gunes pos-si-bles m
 il-lores. En primer lloc,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-[2] [3] (./Entrega Final.aux) ) 
+[5 <./images/Entrada_Sortida_Observador-eps-converted-to.pdf> <./images/Entrada
+_Sortida_Refus_Constant-eps-converted-to.pdf>] [6] (./Entrega Final.aux) ) 
 Here is how much of TeX's memory you used:
- 13674 strings out of 492649
- 256142 string characters out of 6129622
- 325349 words of memory out of 5000000
- 17462 multiletter control sequences out of 15000+600000
- 534586 words of font info for 37 fonts, out of 8000000 for 9000
+ 13720 strings out of 492649
+ 257984 string characters out of 6129622
+ 323397 words of memory out of 5000000
+ 17500 multiletter control sequences out of 15000+600000
+ 535040 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,6n,40p,10434b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb>
-Output written on "Entrega Final.pdf" (3 pages, 69273 bytes).
+</usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Entrega Final.pdf" (6 pages, 182241 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
