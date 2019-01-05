@@ -5,6 +5,8 @@ y1 = polyval(p,x1);
 figure(1)
 plot(rpmvoltdades.volt,rpmvoltdades.rpm,'x')
 hold on
+xlabel('volts')
+ylabel('rpm')
 plot(x1,y1)
 hold off
 %Treure la inversa de la funcio
@@ -17,7 +19,7 @@ fInv(x) = x*(x*(x*(pInv(1)) + pInv(2)) + pInv(3)) + pInv(4);
 
 figure(2)
 %Plot rpm desitjat vs rpm real
-plot(rpmDesrpmReal.Desitjat, rpmDesrpmReal.Real)
+plot(rpmDesrpmReal.x, rpmDesrpmReal.y)
 
 
 %%%%%%%%%%%%%%%%Estimació del model
